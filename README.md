@@ -4,14 +4,14 @@ Programs are written in python2.7
 Directory Structure
 ===================
 ```
-	1. bloom_filter.py
-	2. main_bf.py
-	3. count_bloom_filter.py
-	4. main_cbf.py
-	5. testset1-input.txt
-	6. run.sh
-	7. README.md
-	8. trace.txt
+1. bloom_filter.py
+2. main_bf.py
+3. count_bloom_filter.py
+4. main_cbf.py
+5. testset1-input.txt
+6. run.sh
+7. README.md
+8. trace.txt
 ```
 File details
 ====================
