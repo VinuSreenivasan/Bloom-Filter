@@ -1,0 +1,233 @@
+
+IMPLEMENTATION OF BLOOM FILTER
+-------------------------------
+
+DEV-MUC3-0277 exists in bloom filter
+DEV-MUC3-0061 exists in bloom filter
+TST1-MUC3-0050 exists in bloom filter
+DEV-MUC3-0443 exists in bloom filter
+DEV-MUC3-0441 exists in bloom filter
+TST2-MUC4-0044 exists in bloom filter
+TST2-MUC4-0046 exists in bloom filter
+DEV-MUC3-0887 exists in bloom filter
+DEV-MUC3-0263 exists in bloom filter
+DEV-MUC3-0260 exists in bloom filter
+DEV-MUC3-0261 exists in bloom filter
+TST2-MUC4-0056 exists in bloom filter
+DEV-MUC3-0474 exists in bloom filter
+TST2-MUC4-0053 exists in bloom filter
+DEV-MUC3-0472 exists in bloom filter
+TST2-MUC4-0051 exists in bloom filter
+DEV-MUC3-0371 exists in bloom filter
+DEV-MUC3-0253 exists in bloom filter
+DEV-MUC3-0411 exists in bloom filter
+DEV-MUC3-0004 exists in bloom filter
+DEV-MUC3-0126 exists in bloom filter
+DEV-MUC3-0391 exists in bloom filter
+DEV-MUC3-0552 exists in bloom filter
+DEV-MUC3-0395 exists in bloom filter
+DEV-MUC3-0559 exists in bloom filter
+DEV-MUC3-0028 exists in bloom filter
+TST1-MUC3-0072 exists in bloom filter
+DEV-MUC3-0465 exists in bloom filter
+DEV-MUC3-0467 exists in bloom filter
+DEV-MUC3-0888 exists in bloom filter
+TST1-MUC3-0080 exists in bloom filter
+DEV-MUC3-0306 exists in bloom filter
+DEV-MUC3-0406 exists in bloom filter
+DEV-MUC3-0404 exists in bloom filter
+DEV-MUC3-0139 exists in bloom filter
+DEV-MUC3-0077 exists in bloom filter
+DEV-MUC3-0134 exists in bloom filter
+DEV-MUC3-0528 exists in bloom filter
+DEV-MUC3-0480 exists in bloom filter
+TST1-MUC3-0002 exists in bloom filter
+TST1-MUC3-0004 exists in bloom filter
+DEV-MUC3-0318 exists in bloom filter
+DEV-MUC3-0316 exists in bloom filter
+DEV-MUC3-0102 exists in bloom filter
+TST1-MUC3-0092 exists in bloom filter
+TST2-MUC4-0081 exists in bloom filter
+DEV-MUC3-0487 exists in bloom filter
+DEV-MUC3-0539 exists in bloom filter
+DEV-MUC3-0413 exists in bloom filter
+DEV-MUC3-0298 exists in bloom filter
+DEV-MUC3-0297 exists in bloom filter
+DEV-MUC3-0325 exists in bloom filter
+DEV-MUC3-0036 exists in bloom filter
+DEV-MUC3-0241 exists in bloom filter
+DEV-MUC3-0243 exists in bloom filter
+DEV-MUC3-0345 exists in bloom filter
+DEV-MUC3-0115 exists in bloom filter
+DEV-MUC3-0347 exists in bloom filter
+DEV-MUC3-0117 exists in bloom filter
+DEV-MUC3-0342 exists in bloom filter
+DEV-MUC3-0504 exists in bloom filter
+DEV-MUC3-0051 exists in bloom filter
+DEV-MUC3-0502 exists in bloom filter
+DEV-MUC3-0501 exists in bloom filter
+TST2-MUC4-0093 exists in bloom filter
+TST2-MUC4-0019 exists in bloom filter
+TST2-MUC4-0012 exists in bloom filter
+TST2-MUC4-0010 exists in bloom filter
+DEV-MUC3-0239 exists in bloom filter
+DEV-MUC3-0182 exists in bloom filter
+DEV-MUC3-0557 exists in bloom filter
+DEV-MUC3-0231 exists in bloom filter
+DEV-MUC3-0022 exists in bloom filter
+DEV-MUC3-0026 exists in bloom filter
+DEV-MUC3-0354 exists in bloom filter
+DEV-MUC3-0165 exists in bloom filter
+DEV-MUC3-0351 exists in bloom filter
+DEV-MUC3-0169 exists in bloom filter
+DEV-MUC3-0044 exists in bloom filter
+TST1-MUC3-0036 exists in bloom filter
+TST1-MUC3-0035 exists in bloom filter
+DEV-MUC3-0197 exists in bloom filter
+DEV-MUC3-0225 exists in bloom filter
+DEV-MUC3-0289 exists in bloom filter
+DEV-MUC3-0367 exists in bloom filter
+DEV-MUC3-0366 exists in bloom filter
+DEV-MUC3-0280 exists in bloom filter
+DEV-MUC3-0118 exists in bloom filter
+DEV-MUC3-0284 exists in bloom filter
+DEV-MUC3-0287 exists in bloom filter
+DEV-MUC3-0565 exists in bloom filter
+DEV-MUC3-0561 exists in bloom filter
+DEV-MUC3-0876 exists in bloom filter
+DEV-MUC3-0875 exists in bloom filter
+TST1-MUC3-0045 exists in bloom filter
+DEV-MUC3-0213 exists in bloom filter
+DEV-MUC3-0451 exists in bloom filter
+DEV-MUC3-0452 exists in bloom filter
+TST2-MUC4-0070 exists in bloom filter
+
+
+Results:
+--------
+Number of elements entered in filter:  100.0
+Number of bits in filter:  100.0
+Number of hashes in filter:  2.0
+Probability of false positives:  0.747645072416
+Predicted false positive rate:  74.7645072416
+
+IMPLEMENTATION OF COUNTING BLOOM FILTERS
+------------------------------------------
+
+Statistics Before Deletion:
+---------------------------
+Number of elements present in the filter:  100.0
+Number of bits in filter:  100.0
+Number of hashes used in filter:  2.0
+Probability of false positives present in the set:  0.747645072416
+Predicted false positive rate:  74.7645072416
+
+
+DEV-MUC3-0277 exists in bloom filter
+DEV-MUC3-0061 exists in bloom filter
+TST1-MUC3-0050 exists in bloom filter
+DEV-MUC3-0443 exists in bloom filter
+DEV-MUC3-0441 exists in bloom filter
+TST2-MUC4-0044 exists in bloom filter
+TST2-MUC4-0046 article does not exist in the bloom filter
+DEV-MUC3-0887 exists in bloom filter
+DEV-MUC3-0263 exists in bloom filter
+DEV-MUC3-0260 exists in bloom filter
+DEV-MUC3-0261 exists in bloom filter
+TST2-MUC4-0056 exists in bloom filter
+DEV-MUC3-0474 exists in bloom filter
+TST2-MUC4-0053 exists in bloom filter
+DEV-MUC3-0472 exists in bloom filter
+TST2-MUC4-0051 exists in bloom filter
+DEV-MUC3-0371 exists in bloom filter
+DEV-MUC3-0253 exists in bloom filter
+DEV-MUC3-0411 exists in bloom filter
+DEV-MUC3-0004 exists in bloom filter
+DEV-MUC3-0126 exists in bloom filter
+DEV-MUC3-0391 exists in bloom filter
+DEV-MUC3-0552 exists in bloom filter
+DEV-MUC3-0395 exists in bloom filter
+DEV-MUC3-0559 exists in bloom filter
+DEV-MUC3-0028 exists in bloom filter
+TST1-MUC3-0072 exists in bloom filter
+DEV-MUC3-0465 exists in bloom filter
+DEV-MUC3-0467 exists in bloom filter
+DEV-MUC3-0888 exists in bloom filter
+TST1-MUC3-0080 exists in bloom filter
+DEV-MUC3-0306 exists in bloom filter
+DEV-MUC3-0406 exists in bloom filter
+DEV-MUC3-0404 exists in bloom filter
+DEV-MUC3-0139 exists in bloom filter
+DEV-MUC3-0077 exists in bloom filter
+DEV-MUC3-0134 exists in bloom filter
+DEV-MUC3-0528 exists in bloom filter
+DEV-MUC3-0480 exists in bloom filter
+TST1-MUC3-0002 article does not exist in the bloom filter
+TST1-MUC3-0004 exists in bloom filter
+DEV-MUC3-0318 exists in bloom filter
+DEV-MUC3-0316 exists in bloom filter
+DEV-MUC3-0102 exists in bloom filter
+TST1-MUC3-0092 exists in bloom filter
+TST2-MUC4-0081 article does not exist in the bloom filter
+DEV-MUC3-0487 exists in bloom filter
+DEV-MUC3-0539 exists in bloom filter
+DEV-MUC3-0413 exists in bloom filter
+DEV-MUC3-0298 exists in bloom filter
+DEV-MUC3-0297 exists in bloom filter
+DEV-MUC3-0325 exists in bloom filter
+DEV-MUC3-0036 exists in bloom filter
+DEV-MUC3-0241 exists in bloom filter
+DEV-MUC3-0243 exists in bloom filter
+DEV-MUC3-0345 exists in bloom filter
+DEV-MUC3-0115 exists in bloom filter
+DEV-MUC3-0347 exists in bloom filter
+DEV-MUC3-0117 exists in bloom filter
+DEV-MUC3-0342 exists in bloom filter
+DEV-MUC3-0504 exists in bloom filter
+DEV-MUC3-0051 exists in bloom filter
+DEV-MUC3-0502 exists in bloom filter
+DEV-MUC3-0501 exists in bloom filter
+TST2-MUC4-0093 exists in bloom filter
+TST2-MUC4-0019 exists in bloom filter
+TST2-MUC4-0012 exists in bloom filter
+TST2-MUC4-0010 exists in bloom filter
+DEV-MUC3-0239 exists in bloom filter
+DEV-MUC3-0182 exists in bloom filter
+DEV-MUC3-0557 exists in bloom filter
+DEV-MUC3-0231 exists in bloom filter
+DEV-MUC3-0022 exists in bloom filter
+DEV-MUC3-0026 exists in bloom filter
+DEV-MUC3-0354 exists in bloom filter
+DEV-MUC3-0165 exists in bloom filter
+DEV-MUC3-0351 exists in bloom filter
+DEV-MUC3-0169 exists in bloom filter
+DEV-MUC3-0044 article does not exist in the bloom filter
+TST1-MUC3-0036 exists in bloom filter
+TST1-MUC3-0035 exists in bloom filter
+DEV-MUC3-0197 exists in bloom filter
+DEV-MUC3-0225 exists in bloom filter
+DEV-MUC3-0289 exists in bloom filter
+DEV-MUC3-0367 exists in bloom filter
+DEV-MUC3-0366 exists in bloom filter
+DEV-MUC3-0280 exists in bloom filter
+DEV-MUC3-0118 exists in bloom filter
+DEV-MUC3-0284 exists in bloom filter
+DEV-MUC3-0287 exists in bloom filter
+DEV-MUC3-0565 exists in bloom filter
+DEV-MUC3-0561 exists in bloom filter
+DEV-MUC3-0876 exists in bloom filter
+DEV-MUC3-0875 exists in bloom filter
+TST1-MUC3-0045 exists in bloom filter
+DEV-MUC3-0213 exists in bloom filter
+DEV-MUC3-0451 article does not exist in the bloom filter
+DEV-MUC3-0452 exists in bloom filter
+TST2-MUC4-0070 exists in bloom filter
+
+
+Results After Deletion:
+-----------------------
+Number of elements present in the filter:  95.0
+Number of bits in filter:  100.0
+Number of hashes used in filter:  2.0
+Probability of false positives present in the set:  0.723233533411
+Predicted false positive rate:  72.3233533411
